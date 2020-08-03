@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08df1cf1-55a9-4793-adb9-7368babc5b8a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/quartz-demo" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\bobobod\.m2\repository" />
+        <option name="mavenHome" value="D:/Program Files/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fabUbBQedRNFHrArg6ReZxC2Zp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cczu.quatz.schedule" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MyJobListenerTest">
+    <configuration name="CronTriggerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cczu.quatz.schedule.CronTriggerTest" />
+      <module name="quatz-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cczu.quatz.schedule.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloSchedule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cczu.quatz.schedule.HelloSchedule" />
+      <module name="quatz-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cczu.quatz.schedule.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyJobListenerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cczu.quatz.schedule.MyJobListenerTest" />
+      <module name="quatz-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cczu.quatz.schedule.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleTriggerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cczu.quatz.schedule.SimpleTriggerTest" />
+      <module name="quatz-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cczu.quatz.schedule.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuatzDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="quatz-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cczu.quatz.QuatzDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyJobListenerTest" />
+        <item itemvalue="Application.SimpleTriggerTest" />
+        <item itemvalue="Application.CronTriggerTest" />
+        <item itemvalue="Application.HelloSchedule" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08df1cf1-55a9-4793-adb9-7368babc5b8a" name="Default Changelist" comment="" />
+      <created>1596459166524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596459166524</updated>
+      <workItem from="1596459172708" duration="10792000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="683" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1596469161599">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="683" y="93" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1596469161599" />
+    <state width="1322" height="293" key="GridCell.Tab.0.bottom" timestamp="1596469508659">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="293" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1596469508659" />
+    <state width="1322" height="293" key="GridCell.Tab.0.center" timestamp="1596469508659">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="293" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1596469508659" />
+    <state width="1322" height="293" key="GridCell.Tab.0.left" timestamp="1596469508659">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="293" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1596469508659" />
+    <state width="1322" height="293" key="GridCell.Tab.0.right" timestamp="1596469508659">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="293" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1596469508659" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1596466776418">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1596466776418" />
+  </component>
+</project>
